@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr-Ware
+- 👋 Hi, I’m Cameron!
 - 👀 I’m interested in ...well, I am in the process of figuring that out; there is so much to learn!
 - 🌱 I’m currently learning ...The Odin Project/CS50x
 - 💞️ I’m looking to collaborate on ...anything, really. I want to be a sponge and soak up as much information as possible.
